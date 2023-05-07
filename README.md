@@ -3,6 +3,10 @@ Preparing for leetcode for a good product based company. I will be covering Blin
 
 Links for all of the above mentioned resources:
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
-
 [Blind 75](https://neetcode.io/practice)
+
+[Grind 169](https://www.techinterviewhandbook.org/grind75?weeks=17&hours=9)
+
+[Neetcode 150](https://neetcode.io/practice)
+
+[Seanprashad Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
