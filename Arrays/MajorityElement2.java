@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/majority-element-ii/description/
 // Given an integer array of size n, find all elements that appear more than ⌊ n/3 ⌋ times.
-// Tags: Moore
+// Tags: Moore, Hashmap
 package Arrays;
 
 import java.util.ArrayList;
