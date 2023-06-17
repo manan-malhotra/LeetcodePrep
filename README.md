@@ -5,7 +5,7 @@ Links for all of the above mentioned resources:
 
 - [Blind 75](https://neetcode.io/practice)
 
-- [Grind 169](https://www.techinterviewhandbook.org/grind75?weeks=17&hours=9)
+- [Grind 169](https://www.techinterviewhandbook.org/grind75?weeks=17&hours=9&grouping=topics)
 
 - [Neetcode 150](https://neetcode.io/practice)
 
