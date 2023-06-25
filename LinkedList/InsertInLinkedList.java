@@ -28,6 +28,12 @@ public class InsertInLinkedList {
         dlist.display();
         dlist.remove(4);
         dlist.display();
+        System.out.println("CLL");
+        CLL clist = new CLL();
+        clist.insertFirst(4);
+        clist.insertFirst(3);
+        clist.insertFirst(2);
+        clist.display();
     }
     
 }
