@@ -16,6 +16,68 @@ public class Node {
     public Node(int value){
         this.value=value;
     }
+    public static Node insert(Node node,int value){
+        if(node==null) node = new Node(value);
+        else if(node.value>value){
+            node.left=insert(node.left, value);
+        }else{
+            node.right=insert(node.right, value);
+        }
+        // return node;
+        return rotate(node);
+
+    }
+    private static Node rotate(Node node) {
+        int diff = height(node.left)-height(node.right);
+        System.out.println("Rotate called for: "+node.value+" diff is: "+diff);
+        if(Math.abs(diff)<=1) {
+            System.out.println("Rotate returned for: "+node.value);
+            return node;
+        }
+        else if(diff>1){
+            // left heavy
+            if(height(node.left.left)-height(node.left.right)>0){
+                // left left case
+                System.out.println(node.value + " prev");
+                node = rightRotate(node);
+                System.out.println(node.value + " after");
+            }else{
+                // left right case
+                node.left = leftRotate(node.left);
+                node = rightRotate(node);
+            }
+        }else{
+            // right heavy
+            if(height(node.right.right)-height(node.right.left)>0){
+                // right right case
+                node = leftRotate(node);
+            }else{
+                //right left case
+                node.right=rightRotate(node.right);
+                node = leftRotate(node);
+            }
+        }
+
+        return node;
+    }
+    private static Node leftRotate(Node node) {
+        Node temp = node;
+        node = node.right;
+        temp.right = node.left;
+        node.left=temp;
+        return node;
+    }
+    private static Node rightRotate(Node node) {
+        Node temp = node;
+        node = node.left;
+        temp.left=null;
+        node.right = temp;
+        return node;
+    }
+    public static int height(Node node){
+        if(node==null) return 0;
+        return Math.max(height(node.left),height(node.right))+1;
+    }
 
     public static void preOrder(Node node){
         if(node==null) return;

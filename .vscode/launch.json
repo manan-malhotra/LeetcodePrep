@@ -1,0 +1,384 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "workbench.tree.indent": 15,
+            "workbench.tree.renderIndentGuides": "always",
+            "workbench.colorCustomizations": {
+            "tree.indentGuidesStroke": "#449456"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BestTimeToBuyAndSellStock",
+            "request": "launch",
+            "mainClass": "Arrays.BestTimeToBuyAndSellStock",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "ContainerWithMostWater",
+            "request": "launch",
+            "mainClass": "Arrays.ContainerWithMostWater",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "ContainsDuplicate",
+            "request": "launch",
+            "mainClass": "Arrays.ContainsDuplicate",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "ContigousArray",
+            "request": "launch",
+            "mainClass": "Arrays.ContigousArray",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "FindAllDuplicatesInAnArray",
+            "request": "launch",
+            "mainClass": "Arrays.FindAllDuplicatesInAnArray",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "FindAllNumbersDisappearedInAnArray",
+            "request": "launch",
+            "mainClass": "Arrays.FindAllNumbersDisappearedInAnArray",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "FindTheDuplicateNumber",
+            "request": "launch",
+            "mainClass": "Arrays.FindTheDuplicateNumber",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "FirstMissingPositive",
+            "request": "launch",
+            "mainClass": "Arrays.FirstMissingPositive",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "FourSum",
+            "request": "launch",
+            "mainClass": "Arrays.FourSum",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "GasStation",
+            "request": "launch",
+            "mainClass": "Arrays.GasStation",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "IsAnagram",
+            "request": "launch",
+            "mainClass": "Arrays.IsAnagram",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "LongestConsecutiveSequence",
+            "request": "launch",
+            "mainClass": "Arrays.LongestConsecutiveSequence",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "LongestSubarrayWithSumK",
+            "request": "launch",
+            "mainClass": "Arrays.LongestSubarrayWithSumK",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "MajorityElement",
+            "request": "launch",
+            "mainClass": "Arrays.MajorityElement",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "MajorityElement2",
+            "request": "launch",
+            "mainClass": "Arrays.MajorityElement2",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "MaximumProductSubarray",
+            "request": "launch",
+            "mainClass": "Arrays.MaximumProductSubarray",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "MaximumSubarray",
+            "request": "launch",
+            "mainClass": "Arrays.MaximumSubarray",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "MergeIntervals",
+            "request": "launch",
+            "mainClass": "Arrays.MergeIntervals",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "Arrays.MergeSort",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "MissingNumber",
+            "request": "launch",
+            "mainClass": "Arrays.MissingNumber",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "MoveZeros",
+            "request": "launch",
+            "mainClass": "Arrays.MoveZeros",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "NextPermutation",
+            "request": "launch",
+            "mainClass": "Arrays.NextPermutation",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "PascalsTriangle",
+            "request": "launch",
+            "mainClass": "Arrays.PascalsTriangle",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "ProductOfArrayExceptSelf",
+            "request": "launch",
+            "mainClass": "Arrays.ProductOfArrayExceptSelf",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "QuickSelect",
+            "request": "launch",
+            "mainClass": "Arrays.QuickSelect",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "RotateImage",
+            "request": "launch",
+            "mainClass": "Arrays.RotateImage",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "SetMatrixZeroes",
+            "request": "launch",
+            "mainClass": "Arrays.SetMatrixZeroes",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "SingleNumber",
+            "request": "launch",
+            "mainClass": "Arrays.SingleNumber",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "SortColors",
+            "request": "launch",
+            "mainClass": "Arrays.SortColors",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "SpiralMatrix",
+            "request": "launch",
+            "mainClass": "Arrays.SpiralMatrix",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "SquaresOfASortedArray",
+            "request": "launch",
+            "mainClass": "Arrays.SquaresOfASortedArray",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "ThreeSum",
+            "request": "launch",
+            "mainClass": "Arrays.ThreeSum",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "ThreeSumClosest",
+            "request": "launch",
+            "mainClass": "Arrays.ThreeSumClosest",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "TopKFrequentElement",
+            "request": "launch",
+            "mainClass": "Arrays.TopKFrequentElement",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "TwoSum",
+            "request": "launch",
+            "mainClass": "Arrays.TwoSum",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch.BinarySearch",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "FindMinimumInRotatedSortedArray",
+            "request": "launch",
+            "mainClass": "BinarySearch.FindMinimumInRotatedSortedArray",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "KokoEatingBananas",
+            "request": "launch",
+            "mainClass": "BinarySearch.KokoEatingBananas",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "MedianOfTwoSortedArrays",
+            "request": "launch",
+            "mainClass": "BinarySearch.MedianOfTwoSortedArrays",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "MinimumNumberOfDaysToMakeMBouquets",
+            "request": "launch",
+            "mainClass": "BinarySearch.MinimumNumberOfDaysToMakeMBouquets",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "PeakIndexInAMountainArray",
+            "request": "launch",
+            "mainClass": "BinarySearch.PeakIndexInAMountainArray",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "SearchInRotatedSortedArray",
+            "request": "launch",
+            "mainClass": "BinarySearch.SearchInRotatedSortedArray",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "SearchInRotatedSortedArray2",
+            "request": "launch",
+            "mainClass": "BinarySearch.SearchInRotatedSortedArray2",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "SingleElementInASortedArray",
+            "request": "launch",
+            "mainClass": "BinarySearch.SingleElementInASortedArray",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "SplitArrayLargestSum",
+            "request": "launch",
+            "mainClass": "BinarySearch.SplitArrayLargestSum",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "BitManipulation.Main",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "InsertInLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.InsertInLinkedList",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "LinkedList.Solution",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "LinkedList.Test",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "StacksQueue.Main",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "Trees.Main",
+            "projectName": "LeetcodePrep_ddcae11c"
+        },
+        {
+            "type": "java",
+            "name": "SegmentTrees",
+            "request": "launch",
+            "mainClass": "Trees.SegmentTrees",
+            "projectName": "LeetcodePrep_ddcae11c"
+        }
+    ]
+}
